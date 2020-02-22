@@ -23,6 +23,37 @@
       "name": "Idly Dosa Batter",
       "price": "70",
       "categories": ["Snacks", "Breakfast"]
-    }
+    },
+    {
+      "product_image": "https://www.bigbasket.com/media/uploads/p/s/284405_9-quaker-oats.jpg",
+      "name": "Oats",
+      "price": "270",
+      "categories": ["Snacks", "Breakfast"]
+    },
+    {
+      "product_image": "https://www.bigbasket.com/media/uploads/p/s/1203960_3-lays-potato-chips-indias-magic-masala-party-pack.jpg",
+      "name": "Potato Chips - Indias Magic Masala, Party Pack",
+      "price": "80",
+      "categories": ["Snacks", "Chips"]
+    },
+    {
+      "product_image": "https://www.bigbasket.com/media/uploads/p/s/1201301_2-britannia-good-day-cookies-rich-cashew.jpg",
+      "name": "Good Day Cookies - Rich Cashew",
+      "price": "80",
+      "categories": ["Snacks", "Biscuits"]
+    },
+    {
+      "product_image": "https://www.bigbasket.com/media/uploads/p/s/1201301_2-britannia-good-day-cookies-rich-cashew.jpg",
+      "name": "Good Day Cookies - Rich Cashew",
+      "price": "80",
+      "categories": ["Snacks", "Biscuits"]
+    },
+    {
+      "product_image": "https://www.bigbasket.com/media/uploads/p/s/1203941_3-lays-potato-chips-american-style-cream-onion-flavour.jpg",
+      "name": "Potato Chips - American Style Cream & Onion Flavour",
+      "price": "80",
+      "categories": ["Snacks", "Chips"]
+    },
+    
   ]
 }
