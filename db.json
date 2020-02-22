@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "product_image": "https://www.bigbasket.com/media/uploads/p/s/1200143_5-britannia-biscuits-little-hearts.jpg",
+      "name": "Biscuits - Little Hearts",
+      "price": "60",
+      "categories": ["Snacks", "Biscuits"]
+    },
+    {
+      "product_image": "https://www.bigbasket.com/media/uploads/p/s/1202160_2-bb-combo-kelloggs-corn-flakes-almond-1-kg-red-label-tea-natural-care-250-gm.jpg",
+      "name": "Kelloggs Corn Flakes",
+      "price": "580",
+      "categories": ["Snacks", "Cereal"]
+    },
+    {
+      "product_image": "https://www.bigbasket.com/media/uploads/p/s/266109_15-maggi-2-minute-instant-noodles-masala.jpg",
+      "name": "2-Minute Instant Noodles - Masala",
+      "price": "120",
+      "categories": ["Snacks", "Noodles"]
+    },
+    {
+      "product_image": "https://www.bigbasket.com/media/uploads/p/s/271205_10-id-idly-dosa-batter.jpg",
+      "name": "Idly Dosa Batter",
+      "price": "70",
+      "categories": ["Snacks", "Breakfast"]
+    }
+  ]
+}
